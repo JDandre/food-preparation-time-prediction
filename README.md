@@ -1,7 +1,7 @@
 # Food-Preparation-Time-Prediction
 
 ## Contributors
-Sehaj S., Jaret A. and Josh H.
+Sehaj S. | Jaret A. | Josh H.
 
 ## Scope
 
