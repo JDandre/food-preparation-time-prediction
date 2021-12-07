@@ -1,5 +1,10 @@
 # Food-Preparation-Time-Prediction
 
+## Contributors
+Sehaj S., Jaret A. and Josh H.
+
+## Scope
+
 This original datasets provided by the SkipTheDishes include files train_orders_data_with_targets.csv (training data which has actual food preparation times), menu_items_details_complete.csv (which conatains details about menu items), and train_orders_data_with_targets.csv (for which we want to predict food preparation times).
 
 The All_Test_Train_Clean.ipynb notebook produces cleaned datasets test_clean.csv, train_clean.csv, and menu_clean.csv. We firstly got rid of all the NaN values in test and train data. For fields that are like "item_", the NaN values are changed to "None" and for the fields that are like "quantity_", the NaN values are changed to 0.0. 
